@@ -1,4 +1,5 @@
-# MyCalculator
+# MyCalculator using Angular
+![MyCalculator](https://github.com/NiharShah7/My-Calculator/assets/141811336/ae4dd69a-3f14-480f-b015-af6413c07f72)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
